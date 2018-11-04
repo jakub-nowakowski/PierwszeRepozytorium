@@ -1,1 +1,2 @@
 # PierwszeRepozytorium
+Jakis przykladowy tekst
